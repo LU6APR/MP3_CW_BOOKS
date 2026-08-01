@@ -30,7 +30,7 @@ Colección de libros de práctica para telegrafía (CW) en formato MP3.
   <img src="https://raw.githubusercontent.com/LU6APR/MP3_CW_BOOKS/main/robinson_tapa.jpg" width="150" style="margin: 10px;" alt="Robinson">
   <img src="https://raw.githubusercontent.com/LU6APR/MP3_CW_BOOKS/main/Enquiridion.png" width="150" style="margin: 10px;" alt="Enquiridion">
   <img src="https://raw.githubusercontent.com/LU6APR/MP3_CW_BOOKS/main/prometeo.jpg" width="150" style="margin: 10px;" alt="prometeo">
-  <img src="https://raw.githubusercontent.com/LU6APR/MP3_CW_BOOKS/main/TAO.jpg" width="150" style="margin: 10px;" alt="Tao">
+  <img src="https://raw.githubusercontent.com/LU6APR/MP3_CW_BOOKS/main/TAO.png" width="150" style="margin: 10px;" alt="Tao">
 
 
 
