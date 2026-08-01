@@ -26,7 +26,7 @@ Colección de libros de práctica para telegrafía (CW) en formato MP3.
   <img src="https://raw.githubusercontent.com/LU6APR/MP3_CW_BOOKS/main/el_pollito_cover.png" width="150" style="margin: 10px;" alt="El Pollito">
   <img src="https://raw.githubusercontent.com/LU6APR/MP3_CW_BOOKS/main/CW_curso.jpg" width="150" style="margin: 10px;" alt="CW CURSO">
   <img src="https://raw.githubusercontent.com/LU6APR/MP3_CW_BOOKS/main/MEDITACIONES_COVER_SPA.png" width="150" style="margin: 10px;" alt="CW CURSO">
-  <img src="https://raw.githubusercontent.com/LU6APR/MP3_CW_BOOKS/main/Enquiridion.png" width="150" style="margin: 10px;" alt="CW CURSO">
+  <img src="https://raw.githubusercontent.com/LU6APR/MP3_CW_BOOKS/main/Enquiridion.png" width="150" style="margin: 10px;" alt="Enquiridion">
 
   <img src="https://raw.githubusercontent.com/LU6APR/MP3_CW_BOOKS/main/cw%20books%20-%20call%20signs%20.jpg" width="150" style="margin: 10px;" alt="Call Signs">
   <img src="https://raw.githubusercontent.com/LU6APR/MP3_CW_BOOKS/main/robinson_tapa.jpg" width="150" style="margin: 10px;" alt="Robinson">
