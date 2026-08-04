@@ -28,8 +28,10 @@ Colección de libros de práctica para telegrafía (CW) en formato MP3.
   <img src="https://raw.githubusercontent.com/LU6APR/MP3_CW_BOOKS/main/cw%20books%20-%20call%20signs%20.jpg" width="150" style="margin: 10px;" alt="Call Signs">
   <img src="https://raw.githubusercontent.com/LU6APR/MP3_CW_BOOKS/main/robinson_tapa.jpg" width="150" style="margin: 10px;" alt="Robinson">
   <img src="https://raw.githubusercontent.com/LU6APR/MP3_CW_BOOKS/main/prometeo.jpg" width="150" style="margin: 10px;" alt="prometeo">
+    <img src="https://raw.githubusercontent.com/LU6APR/MP3_CW_BOOKS/main/mitologia_japonesa.png" width="150" style="margin: 10px;" alt="Mitologia">
+
   <img src="https://raw.githubusercontent.com/LU6APR/MP3_CW_BOOKS/main/Enquiridion.png" width="150" style="margin: 10px;" alt="Enquiridion">
-  <img src="https://raw.githubusercontent.com/LU6APR/MP3_CW_BOOKS/main/MEDITACIONES_COVER_SPA.png" width="150" style="margin: 10px;" alt="CW CURSO">
+  <img src="https://raw.githubusercontent.com/LU6APR/MP3_CW_BOOKS/main/MEDITACIONES_COVER_SPA.png" width="150" style="margin: 10px;" alt="Meditaciones">
   <img src="https://raw.githubusercontent.com/LU6APR/MP3_CW_BOOKS/main/TAO.png" width="150" style="margin: 10px;" alt="Tao">
 
 
